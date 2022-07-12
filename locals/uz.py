@@ -6,3 +6,4 @@ uz = {
     'contact':'Aloqa',
     'title1':'Billa olib ketaymi'
 }
+
